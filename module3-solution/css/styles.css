@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+#myHeader{
+  border-radius: 0;
+}
+.customized{
+  margin: 30px;
+  padding-top: 5px;
+  padding-bottom: 30px;
+  background-color: rgb(187, 187, 187);
+  height: 1000px;
+}
+.navbar-brand{
+  font-size: 24px;
+  font-weight: bold;
+}
